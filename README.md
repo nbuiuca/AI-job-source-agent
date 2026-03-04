@@ -1,4 +1,4 @@
-# Part 2 — AI Job Source Agent Take-Home Challenge
+# Part 2 — AI Job Source Agent
 
 This project implements **Part 2: AI Job Source Agent**.
 
